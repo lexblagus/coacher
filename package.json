@@ -1,0 +1,15 @@
+{
+  "name": "movingmotivators",
+  "version": "1.0.0",
+  "description": "A card system for Scrum dynamics",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "contributors": [
+    "Lex Blagus <lex@blag.us> (http://blag.us/)",
+    "Alini Gottardi"
+  ],
+  "license": "ISC"
+}
