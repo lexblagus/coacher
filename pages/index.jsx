@@ -6,5 +6,5 @@ export default () => <div>
 		}
 	`}</style>
 	<img src="static/logo-uol.png"></img>
-	<h1>Welcome to Moving Motivators</h1>
+	<h1>Hello World</h1>
 </div>
