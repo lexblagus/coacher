@@ -1,3 +1,5 @@
+import css from "../styles.scss"
+
 export default () => <div>
 	<style global jsx>{`
 		body {
@@ -6,5 +8,5 @@ export default () => <div>
 		}
 	`}</style>
 	<img src="static/logo-uol.png"></img>
-	<h1>Hello World</h1>
+	<h1 className={css.example}>Hello World</h1>
 </div>
