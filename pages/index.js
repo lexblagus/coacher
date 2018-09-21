@@ -1,4 +1,4 @@
-import css from "../styles.scss"
+import scss from "../styles.scss"
 
 export default () => <div>
 	<style global jsx>{`
@@ -8,5 +8,5 @@ export default () => <div>
 		}
 	`}</style>
 	<img src="static/logo-uol.png"></img>
-	<h1 className={css.example}>Hello World</h1>
+	<h1 className={scss.example}>Hello World</h1>
 </div>
